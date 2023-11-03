@@ -11,9 +11,9 @@ git log - mostra todos os registros de modificações comitadas do arquivo
 git restore + arq.txt - exclui a modificação que não foi git add *ATENÇÃO - excluí toda modificação
 git restore --staged + arq.txt - altera do status do arquivo de Staged para Modificade
 git push - envia todas as modificações para o GitHub
-git fetch - Mostra todas as modificações feitas na Origin # Problema
-git pull - Aceita as modificações feita na Origin # Problema
-Tudo certo agora?
+git fetch - Mostra todas as modificações feitas na Origin
+git pull - Aceita as modificações feita na Origin
+
 
 Estados do git
 
