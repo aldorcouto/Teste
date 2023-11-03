@@ -1,0 +1,23 @@
+Comandos do Git
+
+git clone + http - copia todas as pastas e arquivos da pag do GitHub
+git init dentro de um pasta - a pasta será um repositório de versões
+git status - mostra qual branch está, se modificiou um arq. então mostra dicas de comandos
+             mostra o estado do arquivo modificado
+git diff - mostra o que foi modificado nos arquivos. Só mostra algo se não foi dado git add
+git diff --stage - mostra a modificação dos arquivos após git add 
+git commit -m "Texto do commit" - Comita um arquivo que está na área de stage    
+git log - mostra todos os registros de modificações comitadas do arquivo
+git restore + arq.txt - exclui a modificação que não foi git add *ATENÇÃO - excluí toda modificação
+git restore --staged + arq.txt - altera do status do arquivo de Staged para Modificade  
+
+Estados do git
+
+Unmodified - é um arquivo mapeado, ou seja, ja passou pelo staging e ja foi comitado. Todas as modificações foram salvas.
+
+Modified - quadno um arquivo salvo é modificado
+Stage - ocorre quando eu quero salvar a modificação feita, comando git add
+Untraked - é um arquivo adicionado à pasta do git, mas não existia versões anteriores dele, é um arq novo
+
+
+
