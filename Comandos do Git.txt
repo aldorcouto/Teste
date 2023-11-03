@@ -10,8 +10,8 @@ git commit -m "Texto do commit" - Comita um arquivo que está na área de stage
 git log - mostra todos os registros de modificações comitadas do arquivo
 git restore + arq.txt - exclui a modificação que não foi git add *ATENÇÃO - excluí toda modificação
 git restore --staged + arq.txt - altera do status do arquivo de Staged para Modificade
-git fetch - Mostra todas as modificações feitas na Origin
-git pull - Aceita as modificações feita na Origin
+git fetch - Mostra todas as modificações feitas na Origin # Problema
+git pull - Aceita as modificações feita na Origin # Problema
 
 Estados do git
 
