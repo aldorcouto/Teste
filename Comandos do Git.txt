@@ -13,6 +13,7 @@ git restore --staged + arq.txt - altera do status do arquivo de Staged para Modi
 git push - envia todas as modificações para o GitHub
 git fetch - Mostra todas as modificações feitas na Origin # Problema
 git pull - Aceita as modificações feita na Origin # Problema
+Tudo certo agora?
 
 Estados do git
 
