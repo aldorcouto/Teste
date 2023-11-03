@@ -15,8 +15,10 @@ git fetch - Mostra todas as modificações feitas na Origin
 git pull - Aceita as modificações feita na Origin
 git log --oneline - mostra todos os commits feitos, também mostra onde esta a Head
 git branch #nome da branch criada# - cri uma branch com o nome escolhido
-git checkout #nome da branch criada# - sai da Master e vai para ourta branch
-CONFLITO DE BRANCHS
+git checkout #nome da branch criada# - sai da Master e vai para outra branch
+
+
+
 
 Estados do git
 
